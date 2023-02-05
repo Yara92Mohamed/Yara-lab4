@@ -47,6 +47,8 @@ plot the data of the positive class and the data of the negative class of the bi
 ![Screenshot 2023-02-05 030748](https://user-images.githubusercontent.com/76847548/216796422-bec92599-9c98-4edc-965e-099661e929df.png)
 
 data after making Naive bayes to make a classification and a scatter blot between the two classes for the binclassv2 data
+
+
 ![image](https://user-images.githubusercontent.com/76847548/216796454-df6c068f-3c63-4c33-94ba-1ddd17d28ed1.png)
 
 
