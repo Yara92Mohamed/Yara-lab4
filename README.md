@@ -24,4 +24,30 @@ plot the data of the positive class and the data of the negative class
 
 ![image](https://user-images.githubusercontent.com/76847548/216796120-b9d00b22-0575-400f-81a5-adc3c3cf66b9.png)
 
+data after making Naive bayes to make a classification and a scatter blot between the two classes
+
+![Screenshot 2023-02-05 030010](https://user-images.githubusercontent.com/76847548/216796209-95b2ff9a-feed-4374-8789-6bed100a3869.png)
+
+load binclassv2 data
+
+![image](https://user-images.githubusercontent.com/76847548/216796248-d1b2c142-9435-42f0-ac5d-0cbef2b44f71.png)
+
+accuracy after fitting gaussianNB to binclassv2 data
+
+![image](https://user-images.githubusercontent.com/76847548/216796278-0c613747-bf8a-444a-bdcf-eee01c77a100.png)
+
+data after assign string values to column name and standrize x
+![image](https://user-images.githubusercontent.com/76847548/216796340-0defb2b8-a09e-4e1c-a335-8a3555630b51.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
